@@ -1,4 +1,4 @@
-# The decent web
+# [The decent web](http://bastianallgeier.com/decentweb)
 
 Snowden, the NSA, our broken tech culture, the rotten state of "the cloud" and our privacy has made it very hard for me to keep motivated working on and for the web in the last months. What to strive for if everything around you seems so wrong?
 
@@ -24,8 +24,8 @@ It would be great to extend that site with links to articles and talks and more 
 
 Otherwise you can find me here:
 
-<http://bastianallgeier.com>
-[@bastianallgeier](http://twitter.com/bastianallgeier)
+- <http://bastianallgeier.com>
+- [@bastianallgeier](http://twitter.com/bastianallgeier)
 
 
 
