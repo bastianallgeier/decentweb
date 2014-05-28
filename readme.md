@@ -1,4 +1,4 @@
-# [The decent web](http://bastianallgeier.com/decentweb)
+# [The decent web](http://decentweb.org)
 
 Snowden, the NSA, our broken tech culture, the rotten state of "the cloud" and our privacy has made it very hard for me to keep motivated working on and for the web in the last months. What to strive for if everything around you seems so wrong?
 
@@ -14,9 +14,7 @@ Funnily at the end of the camp there has been a small group of people standing a
 
 That made me think more about that term. Maybe it could be exactly that kind of term that we need to summarize what many people currently look for — The decent web — a more decent version of the web, including higher standards, more tolerance, more accessibility, more openess, more decentralization, less silos, less broken culture. Maybe it could become something that we use as a foundation for our work. Something people who care about the web agree on. Nothing that has to be set in stone. Not a manifesto or something super serious. Just a couple of thoughts and principles to stick to.
 
-I'm not the one to decide that. I'm not even sure if the word "decent" conveys the message properly, but I just wanted to throw it out there with a little website that lists the first few principles that came to my mind: <http://bastianallgeier.com/decentweb>
-
-I just registered <http://decentweb.org> but it's not available yet. As soon as it will be, I will redirect it to that site.
+I'm not the one to decide that. I'm not even sure if the word "decent" conveys the message properly, but I just wanted to throw it out there with a little website that lists the first few principles that came to my mind: <http://decentweb.org>
 
 If you like it, please feel free to share it, fork it or to contribute your own thoughts. It's public domain.
 
